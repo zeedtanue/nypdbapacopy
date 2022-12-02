@@ -10,15 +10,15 @@ const Hero3 = (props) => {
                         <div className="row">
                             <div className="col col-lg-12 slide-caption">
                                 <div className="slide-title">
-                                    <h2>Let’s be Kind for <span>Children</span></h2>
+                                    <h2>Bangladesh American Police Association</h2>
                                 </div>
                                 <div className="slide-subtitle">
-                                    <p>High Quality Charity Theme in Envato Market.</p>
-                                    <p>You Can Satisfied Yourself By Helping.</p>
+                                    <p>Mission and tagline for the Association</p>
+                                    <p>Mission and tagline for the Association</p>
                                 </div>
-                                <div className="btns">
+                                {/* <div className="btns">
                                     <Link href="/DonatePage"><a className="theme-btn">Donate Now</a></Link>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

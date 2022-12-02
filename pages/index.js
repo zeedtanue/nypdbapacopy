@@ -1,6 +1,8 @@
 import React, {Fragment} from 'react';
 import Header from '../components/header'
 import Hero from '../components/hero'
+import Hero3 from '../components/hero3'
+
 import Mission from '../components/mission'
 import About from '../components/about'
 import CaseSlide from '../components/case'
@@ -14,21 +16,26 @@ import {ToastContainer} from 'react-toastify';
 import Head from 'next/head'
 
 
+
 const HomePage =() => {
     return(
         <Fragment>
             <Head>
                 <title>Home Page</title>
             </Head>
-            <ToastContainer/>
+            {/* <ToastContainer/> */}
             <Header/>
-            <Hero/>
+            {/* <Hero/> */}
+            <Hero3/>
+            <Mission subclass={'section-padding'}/>
+
             <Mission/>
             <About/>
             <CaseSlide/>
+
             <CounterSection/>
-            <TeamSection/>
-            <WorldSection/>
+            {/* <TeamSection/> */}
+            {/* <WorldSection/> */}
             <BlogSection/>
             <Footer/>
             <Scrollbar/>

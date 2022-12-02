@@ -26,7 +26,7 @@ const Contactpage = () => {
                             <div className="row">
                                 <div className="col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div className="info-item">
-                                        <h2>25 North Street,Dubai</h2>
+                                        <h2>New York, USA</h2>
                                         <div className="info-wrap">
                                             <div className="info-icon">
                                                 <i className="ti-world"></i>
@@ -39,7 +39,7 @@ const Contactpage = () => {
                                 </div>
                                 <div className="col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div className="info-item">
-                                        <h2>info@nasarna.com</h2>
+                                        <h2>info@nypdbapa.com</h2>
                                         <div className="info-wrap">
                                             <div className="info-icon-2">
                                                 <i className="fi flaticon-envelope"></i>

@@ -17,9 +17,9 @@ const Footer = (props) =>{
                     <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
                         <div className="widget about-widget">
                             <div className="logo widget-title">
-                                <img src='images/logo-2.png' alt=""/>
+                                <img src='images/bapaLogo.png' alt=""/>
                             </div>
-                            <p>Build and Earn with your online store with lots of cool and exclusive wpo-features </p>
+                            {/* <p>Build and Earn with your online store with lots of cool and exclusive wpo-features </p> */}
                             <ul>
                                 <li><Link onClick={ClickHandler} href="/"><a><i className="ti-facebook"></i></a></Link></li>
                                 <li><Link onClick={ClickHandler} href="/"><a><i className="ti-twitter-alt"></i></a></Link></li>
@@ -76,8 +76,8 @@ const Footer = (props) =>{
                             <div className="contact-ft">
                                 <ul>
                                     <li><i className="fi flaticon-pin"></i>28 Street, New York City, USA</li>
-                                    <li><i className="fi flaticon-call"></i>+000123456789</li>
-                                    <li><i className="fi flaticon-envelope"></i>nasarna@gmail.com</li>
+                                    <li><i className="fi flaticon-call"></i>+0001231415256</li>
+                                    <li><i className="fi flaticon-envelope"></i>info@nypdbapa.com</li>
                                 </ul>
                             </div>
                         </div>
@@ -89,7 +89,7 @@ const Footer = (props) =>{
             <div className="container">
                 <div className="row">
                     <div className="col col-xs-12">
-                        <p className="copyright">&copy; 2021 Nasarna. All rights reserved</p>
+                        <p className="copyright">&copy; 2022 Tanbel Inc. All rights reserved</p>
                     </div>
                 </div>
             </div>
