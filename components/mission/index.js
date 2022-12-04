@@ -7,7 +7,7 @@ const Mission = (props) => {
                     <div className="col-12">
                         <div className="wpo-section-title">
                             <span>What We Do?</span>
-                            <h2>We Are In A Mission To Help The Helpless</h2>
+                            <h2>Mission Line</h2>
                         </div>
                     </div>
                 </div>
@@ -16,10 +16,10 @@ const Mission = (props) => {
                         <div className="col-lg-3 col-md-6 col-sm-12 col-12 custom-grid">
                             <div className="wpo-mission-item">
                                 <div className="wpo-mission-icon-5">
-                                    <img src='images/mission/icon1.png' alt=""/>
+                                    {/* <img src='images/mission/icon1.png' alt=""/> */}
                                 </div>
                                 <div className="wpo-mission-content">
-                                    <h2>Clean Water</h2>
+                                    <h2>Mission 1</h2>
                                     <p>Lorem ipsum dolor amet cosectetur adipiscing, sed do eiusmod.</p>
                                 </div>
                             </div>
@@ -27,10 +27,10 @@ const Mission = (props) => {
                         <div className="col-lg-3 col-md-6 col-sm-12 col-12 custom-grid">
                             <div className="wpo-mission-item">
                                 <div className="wpo-mission-icon-6">
-                                    <img src='images/mission/icon2.png' alt=""/>
+                                    {/* <img src='images/mission/icon2.png' alt=""/> */}
                                 </div>
                                 <div className="wpo-mission-content">
-                                    <h2>Healthy Food</h2>
+                                    <h2>Mission 2</h2>
                                     <p>Lorem ipsum dolor amet cosectetur adipiscing, sed do eiusmod.</p>
                                 </div>
                             </div>
@@ -38,10 +38,10 @@ const Mission = (props) => {
                         <div className="col-lg-3 col-md-6 col-sm-12 col-12 custom-grid">
                             <div className="wpo-mission-item">
                                 <div className="wpo-mission-icon-7">
-                                    <img src='images/mission/icon3.png' alt=""/>
+                                    {/* <img src='images/mission/icon3.png' alt=""/> */}
                                 </div>
                                 <div className="wpo-mission-content">
-                                    <h2>Pure Education</h2>
+                                    <h2>Mission 3</h2>
                                     <p>Lorem ipsum dolor amet cosectetur adipiscing, sed do eiusmod.</p>
                                 </div>
                             </div>
@@ -49,10 +49,10 @@ const Mission = (props) => {
                         <div className="col-lg-3 col-md-6 col-sm-12 col-12 custom-grid">
                             <div className="wpo-mission-item">
                                 <div className="wpo-mission-icon-8">
-                                    <img src='images/mission/icon4.png' alt=""/>
+                                    {/* <img src='images/mission/icon4.png' alt=""/> */}
                                 </div>
                                 <div className="wpo-mission-content">
-                                    <h2>Medical Facilities</h2>
+                                    <h2>Mission 4</h2>
                                     <p>Lorem ipsum dolor amet cosectetur adipiscing, sed do eiusmod.</p>
                                 </div>
                             </div>

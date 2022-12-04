@@ -19,7 +19,7 @@ const CasePage =() => {
             </Head>
             <Header/>
             <PageTitle pageTitle={'About Us'} pagesub={'About'}/> 
-            <VedioCta/>
+            {/* <VedioCta/> */}
             <Mission subclass={'section-padding'}/>
             <About/>
             <CaseSlide/>

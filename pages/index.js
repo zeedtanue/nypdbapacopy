@@ -14,6 +14,7 @@ import Footer from '../components/footer'
 import Scrollbar from '../components/scrollbar'
 import {ToastContainer} from 'react-toastify';
 import Head from 'next/head'
+import EventSection from '../components/event';
 
 
 
@@ -27,14 +28,16 @@ const HomePage =() => {
             <Header/>
             {/* <Hero/> */}
             <Hero3/>
-            <Mission subclass={'section-padding'}/>
+            <EventSection/>
+            
+            {/* <Mission subclass={'section-padding'}/> */}
 
-            <Mission/>
+            {/* <Mission/> */}
             <About/>
-            <CaseSlide/>
+            {/* <CaseSlide/> */}
 
-            <CounterSection/>
-            {/* <TeamSection/> */}
+            {/* <CounterSection/> */}
+            <TeamSection/>
             {/* <WorldSection/> */}
             <BlogSection/>
             <Footer/>

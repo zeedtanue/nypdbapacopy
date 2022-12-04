@@ -22,8 +22,8 @@ const HomePage3 =() => {
             <Hero3/>
             <Mission subclass={'section-padding'}/>
             <About/>
-            <CaseSlide/>
-            <CounterSection countclass={'wpo-counter-style-2'}/>
+            {/* <CaseSlide/> */}
+            {/* <CounterSection countclass={'wpo-counter-style-2'}/> */}
             <TeamSection/>
             <WorldSection worldclass={'wpo-world-area-2'}/>
             <BlogSection/>
