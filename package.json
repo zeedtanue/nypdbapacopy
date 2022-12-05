@@ -1,9 +1,10 @@
 {
-  "name": "Bapa-tanbel",
+  "name": "bapa-tanbel",
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "14.21.1"
+    "node": "14.21.1",
+    "npm" : "6.14.17"
   },
   "scripts": {
     "dev": "next dev",
